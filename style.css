@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+body {
+    background: rgb(59, 55, 55);
+    font-size: 12px;
+    }
+
+h1{
+    text-align: center;
+   } 
+    
+.container {
+    margin: auto;
+    padding: 10px;
+    }
+    
+.items {
+    flex: 1;
+    padding: 50px;
+    }
+
+input {
+    margin: 10px 10px 10px;
+    }
+
+.mostrarDatos {
+    color: black;
+    font-size: 1.2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+    
