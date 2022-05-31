@@ -1,7 +1,7 @@
 // Funcion para calcular las notas
 const calcular = () => {
 
-    // input del usuario para cada variable
+    // input del estudiante para cada variable
     let quimica = document.querySelector("#quimica").value;
     let ingles = document.querySelector("#ingles").value;
     let matematica = document.querySelector("#matematica").value;
